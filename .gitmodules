@@ -1,0 +1,3 @@
+[submodule "mellow-mind"]
+	path = mellow-mind
+	url = https://github.com/parz3val/mellow-mind.git
